@@ -1,0 +1,2 @@
+# exrabbitmqadmin
+ExtendedRabbitmqadmin
